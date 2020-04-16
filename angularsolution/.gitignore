@@ -1,6 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-"liveServer.settings.CustomBrowser": "chrome"
-"open-in-browser.default": "chrome"
+
 # compiled output
 /dist
 /tmp
